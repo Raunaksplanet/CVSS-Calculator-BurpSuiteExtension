@@ -2,6 +2,9 @@
 
 A modern Burp Suite extension that calculates CVSS v3.1 Base Scores with a clean, professional interface.
 
+## Demo
+https://github.com/user-attachments/assets/774b83d3-002d-4b03-ab88-ad01c41db543
+
 ## Description
 
 This extension provides security researchers with an integrated CVSS calculator directly within Burp Suite. Calculate vulnerability severity scores without leaving your testing environment.
